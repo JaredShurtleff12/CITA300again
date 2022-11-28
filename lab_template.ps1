@@ -59,7 +59,7 @@ foreach ($User in $ADUsers)
             -Title $jobtitle `
             -Department $department `
             -AccountPassword $secPw `
-            
+            # testing
             
 	}
     #Account will be added to an OU called AllowInternetAccess
