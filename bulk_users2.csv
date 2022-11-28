@@ -1,0 +1,3 @@
+firstname,middleInitial,lastname,username,email,streetaddress,city,postalcode,state,country,department,password,telephone,jobtitle,company,ou
+Bob,J,Smith,smith123,smith123@shurtl056.local,123 south st,morrisville,13408,NY,USA,Accounting,P@ssword123,555-555-5555,Accounting Manager,Optinax,"CN=Users,DC=shurtl056,DC=local"
+Steve,Q,Jones,jones123,jones123@shurtl056.local,456 north st,morrisville,13408,NY,USA,Information Technology, P@ssword123,555-555-5556,Pesant,Optinax,"CN=Users,DC=shurtl056,DC=local"
